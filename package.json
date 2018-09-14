@@ -1,6 +1,6 @@
 {
-  "name": "samlify",
-  "version": "2.3.6",
+  "name": "@florencehealthcare/samlify",
+  "version": "2.3.6-rc2",
   "description": "High-level API for Single Sign On (SAML 2.0)",
   "main": "build/index.js",
   "keywords": [
@@ -26,9 +26,9 @@
   "contributors": [
     "Tony Ngan <tonynwk919@gmail.com>"
   ],
-  "author": "tngan",
+  "author": "Rastko Jokic",
   "repository": {
-    "url": "https://github.com/tngan/samlify",
+    "url": "git+https://github.com/FlorenceHC/samlify.git",
     "type": "git"
   },
   "license": "MIT",
